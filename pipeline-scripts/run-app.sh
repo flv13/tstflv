@@ -23,4 +23,4 @@ cd /home/raful/default/app/
 ##php artisan route:cache
 #php artisan bugsnag:notify
 rm -rf /tmp/app
-echo "FLB-newTEST-now" > /home/ubuntu/flv13.tst
+echo "FLV-FINAL" > /home/ubuntu/flv-test.tst
